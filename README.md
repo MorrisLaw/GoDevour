@@ -1,2 +1,2 @@
 # GoDevour
-Ingest large amounts of data (GBs) at a fast rate.
+Ingest large amounts of data at a fast rate.
